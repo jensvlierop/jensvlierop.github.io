@@ -229,8 +229,8 @@ In onderstaande Gantt chart staan alle activiteiten voor het project globaal uit
 
 
 > # Inhoudelijke hoofdstukken {docsify-ignore}
-> #### [Periode 1: Centraal machtigingen Register ](/fase1.md ) {docsify-ignore}
-> #### [Periode 2: Vertrouwensbanden](/fase2.md) {docsify-ignore}
+> #### [Periode 1: Centraal machtigingen Register ](/period1.md ) {docsify-ignore}
+> #### [Periode 2: Vertrouwensbanden](/period2.md) {docsify-ignore}
 
 
 

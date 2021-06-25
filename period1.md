@@ -16,7 +16,7 @@ De resultaten van dit onderzoek zijn opgenomen in een Consumer Trend Canvas (Tre
 
 >  [Meer informatie](/hoofdstukken/1.%20Trends%20Onderzoek%20CUI.pdf ':ignore')
 >
->  [Consumer Trend Canvas (volledige grootte)](/bijlagen/Trend%20Canvas.pdf ':ignore')
+>  [Consumer Trend Canvas (volledige grootte)](/bijlagen/Trend%20canvas.pdf ':ignore')
 
 </br>
 
