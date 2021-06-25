@@ -241,7 +241,7 @@ Als eerste was het nodig om de vertrouwensband weer te geven binnen het machtigi
 
 Vervolgens hebben ik en Cas op basis van de rijkshuisstijl en W3 Aria richtlijnen een Design system opgezet voor het bouwen van de prototypes.
 
-<img src="assets/UI Base Kit.png" alt="UI Base Kit" style="width: 800px; border: 2px solid #E6E6E6" />
+<img src="assets/ui-kit.png" alt="UI Kit" style="width: 800px; border: 2px solid #E6E6E6" />
 
 #### Prototypes
 
